@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1795
+
+ Load template file from a specific directory according their filetype while
+ starting to edit a new file. if the file does not exist, skip it!
